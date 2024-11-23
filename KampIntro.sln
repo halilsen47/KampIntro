@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipleri", "DegerveReferansTipleri\DegerveReferansTipleri.csproj", "{1D9D6C07-5E87-427A-BA9A-A7F8B8E033B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{D5826D7B-ECAD-4DD0-A9C0-E79347FD6112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1D9D6C07-5E87-427A-BA9A-A7F8B8E033B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D9D6C07-5E87-427A-BA9A-A7F8B8E033B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D9D6C07-5E87-427A-BA9A-A7F8B8E033B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5826D7B-ECAD-4DD0-A9C0-E79347FD6112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5826D7B-ECAD-4DD0-A9C0-E79347FD6112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5826D7B-ECAD-4DD0-A9C0-E79347FD6112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5826D7B-ECAD-4DD0-A9C0-E79347FD6112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
