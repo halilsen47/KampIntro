@@ -12,10 +12,19 @@ namespace OOP1
         //Encapsulation,BİRDEN FAZLA PARAMETRE İLE ÜRÜNÜ ALMAK YERİNE DİREKT NESNEYİ ALMAK VE ATTRİBUTELARINA ULAŞMAK
         public void Add(Product product)
         {
-            
+            //Referans atama 
+            //product.ProductName = "Kamera";   
+            Console.WriteLine(product.ProductName + " Eklendi.");
+
         }
          
+        public void Update(Product product)
+        {
+            Console.WriteLine(product.ProductName + " Güncellendi.");
+        }
 
-      
+     
+
+
     }
 }

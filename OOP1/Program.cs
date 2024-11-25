@@ -30,7 +30,10 @@ namespace OOP1
             //Pascal case  //camelCase
             //Case sensitive
             ProductManager productManager = new ProductManager();
-            productManager.Add(product1); 
+            productManager.Add(product1);
+
+             
+
 
         }
     }
