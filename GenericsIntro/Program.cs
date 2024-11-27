@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using GenericsIntro;
+using System;
+
+namespace KampIntro;
+
+class program
+{
+
+    static void Main(string[] args)
+    {
+        MyList<string> isimler = new MyList<string>();
+        isimler.Add("Halil");
+    }
+}
