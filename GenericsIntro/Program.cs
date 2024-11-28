@@ -10,5 +10,7 @@ class program
     {
         MyList<string> isimler = new MyList<string>();
         isimler.Add("Halil");
+
+        
     }
 }
